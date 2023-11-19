@@ -1,2 +1,3 @@
 # my_first_repo
-trainer is jogesh
+trainer - is jogesh
+july batch
